@@ -1,0 +1,7 @@
+{
+  "name": "bamboo",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
